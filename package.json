@@ -1,0 +1,17 @@
+{
+  "name": "node-rest-api",
+  "version": "0.0.1",
+  "author": "William Mora <william.r.mora@gmail.com>",
+  "description": "Boilerplate for a REST API using Express",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmora/node-rest-api.git"
+  },
+  "dependencies": {
+    "express": "3.1.1",
+    "underscore": "1.4.4"
+  }
+}
